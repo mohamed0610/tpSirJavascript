@@ -6,7 +6,7 @@
 
 2. Voir l interet d un framework comme AngularJS par la suite.  
 
-## La rÃ©alisation de TP
+## La réalisation de TP
 
 L objectif de ce TP consiste Ã  creer une application Web pour faire un dessin vectoriel:dessiner des rectangles, des lignes avec leurs couleurs et épaisseurs. La figure ci-dessous montre l'état de l'application et donc l'objectif Ã  atteindre.
 
